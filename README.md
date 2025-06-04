@@ -43,4 +43,4 @@ This solution enabled the business to:
 
 ## 🌐 View the Interactive Report
 
-[View Live HTML Page](https://your-github-username.github.io/your-repo-name/catalog_ml_project.html)
+[View Live HTML Page]([https://your-github-username.github.io/your-repo-name/catalog_ml_project.html](https://github.com/dkanawat/Marketing-ML-Project/blob/main/catalog_ml_project.html))
