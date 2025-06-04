@@ -42,5 +42,4 @@ This solution enabled the business to:
 - **Improve ROI** by 15–25% across multiple campaigns
 
 ## 🌐 View the Interactive Report
-[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/blob/main/catalog_ml_project.html)
-[View Live HTML Page](https://dkanawat.github.io/RFM-Customer-Segmentation/rfm-segmentation.html)
+[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/catalog_ml_project.html)
