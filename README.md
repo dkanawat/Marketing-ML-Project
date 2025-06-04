@@ -42,4 +42,4 @@ This solution enabled the business to:
 - **Improve ROI** by 15–25% across multiple campaigns
 
 ## 🌐 View the Interactive Report
-[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/)
+[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/index.html)
