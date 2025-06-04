@@ -43,3 +43,5 @@ This solution enabled the business to:
 
 ## 🌐 View the Interactive Report
 [View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/index.html)
+
+[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/)
