@@ -8,7 +8,7 @@ This end-to-end machine learning solution is designed to **optimize direct mail 
    Developed a predictive system to target catalog recipients likely to respond and spend. Aimed to improve marketing ROI by 15–25%.
 
 2. **Data Collection & Feature Engineering**  
-   Used 4 years of transaction data, demographic information, third-party enrichment, and campaign history. Created 25,000+ features, later reduced to ~200 through Lasso and XGBoost importance.
+   Used 12 months of transaction data, demographic information, third-party enrichment, and campaign history. Created 25,000+ features, later reduced to ~200 through Lasso and XGBoost importance.
 
 3. **Modeling**  
    - **Response Model**: XGBoost classifier predicting purchase likelihood (ROC-AUC: 0.763).  
@@ -42,5 +42,5 @@ This solution enabled the business to:
 - **Improve ROI** by 15–25% across multiple campaigns
 
 ## 🌐 View the Interactive Report
-[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/index.html)
+[View Live HTML Page](https://dkanawat.github.io/Marketing-ML-Project/catalog_ml_project.html)
 
